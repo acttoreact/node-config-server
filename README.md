@@ -1,2 +1,1 @@
-# node-config-server
-Node Config Server
+docs/README.md
