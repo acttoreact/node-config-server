@@ -3,6 +3,7 @@
     "Interop",
     "binpar",
     "downlevel",
+    "markdownlint",
     "respawn",
     "sourcemap",
     "tslib"
